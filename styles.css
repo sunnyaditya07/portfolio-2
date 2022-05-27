@@ -132,10 +132,11 @@ text-align: center;
 
 .email{
   font-size: 15px;
-  padding-top: 30px;
+  padding-top: 50px;
 }
 
 .logo{
+    padding-top: 20px;
   margin-bottom: 15%;
 }
 
